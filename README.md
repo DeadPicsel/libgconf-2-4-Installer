@@ -87,7 +87,7 @@ Why use this method:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Bash][bash]][Bash-url]
+* <img src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
