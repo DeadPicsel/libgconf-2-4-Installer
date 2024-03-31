@@ -37,7 +37,7 @@
   <h3 align="center">libgconf-2-4</h3>
 
   <p align="center">
-    Easily install libgconf-2-4 on any Linux OS!
+    install libgconf-2-4 on any Linux OS without the headache!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
