@@ -34,10 +34,10 @@
     <img src="images/main_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">libgconf-2-4</h3>
+  <h3 align="center">libgconf-2-4 Installer</h3>
 
   <p align="center">
-    install libgconf-2-4 on any Linux OS without the headache!
+    Easily install libgconf-2-4 on any Linux OS without the headache!
   </p>
 </div>
 
